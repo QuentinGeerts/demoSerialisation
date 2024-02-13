@@ -1,0 +1,15 @@
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/bin/Debug/net6.0/demoSerialisation
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/bin/Debug/net6.0/demoSerialisation.deps.json
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/bin/Debug/net6.0/demoSerialisation.runtimeconfig.json
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/bin/Debug/net6.0/demoSerialisation.dll
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/bin/Debug/net6.0/demoSerialisation.pdb
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.csproj.AssemblyReference.cache
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.AssemblyInfoInputs.cache
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.AssemblyInfo.cs
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.csproj.CoreCompileInputs.cache
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.dll
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/refint/demoSerialisation.dll
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.pdb
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/demoSerialisation.genruntimeconfig.cache
+/Users/quentingeerts/Workspace/C#/demoSerialisation/demoSerialisation/obj/Debug/net6.0/ref/demoSerialisation.dll
